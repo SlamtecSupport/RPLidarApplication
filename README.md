@@ -1,2 +1,2 @@
 # RPLidarApplication
-some application about RPLidar
+some applications about RPLidar
